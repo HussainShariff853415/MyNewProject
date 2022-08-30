@@ -18,6 +18,13 @@ public class ClickOn2ndColumn {
 	}
 	
 	
+	
+	
+	
+	
+	
+	
+	
 	By clickingSecondColumn = By.xpath("//tr[@aria-rowindex='1']//td//span[contains(text(),'47493')]");
 	By textBox = By.xpath("//textarea[@id='txteventcommentdialog']");
 	By closingButton = By.xpath("//div[@class='navigationbar']//div[@id='ejMenuBar_nav']//div[@class='e-icons e-popup-down-icon']");
